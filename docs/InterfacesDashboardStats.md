@@ -1,0 +1,48 @@
+# InterfacesDashboardStats
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Vnic7InPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic0InByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic8OutPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic5InByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic2InPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic3InPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic6OutByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic3InByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic8InPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic1InByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic1OutPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic5OutByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic0OutPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic0OutByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic6OutPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic3OutByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic7InByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic1OutByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic9OutPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic9InPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic4InByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic5OutPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic2OutPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic2InByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic5InPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic7OutPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic3OutPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic4OutPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic4OutByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic1InPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic2OutByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic6InByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic0InPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic9InByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic7OutByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic4InPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic9OutByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic8OutByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic8InByte** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+**Vnic6InPkt** | [**[]DashboardStat**](DashboardStat.md) |  | [optional] [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
